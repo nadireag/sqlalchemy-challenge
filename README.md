@@ -1,8 +1,8 @@
-## SQlAlchemy Challenge
+## SQLAlchemy Challenge
 
 #### Climate Analysis and Exploration
 
-Use Python, SQlAlchemy, Pandas and Matplotlib to do climate analysis and data exploration of the database.
+Use Python, SQLAlchemy, Pandas and Matplotlib to do climate analysis and data exploration of the database.
 
 ## Precipitation Analysis
 
