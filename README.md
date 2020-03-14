@@ -1,3 +1,6 @@
+![image](output/daily_normals.png)
+
+
 ## SQLAlchemy Challenge
 
 #### Climate Analysis and Exploration
